@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Calorie Detector</string>
+    <string name="app_name">Calorie Estimator</string>
     <string name="item_1">Home</string>
     <string name="item_2">Gallery</string>
     <string name="item_3">Settings</string>
